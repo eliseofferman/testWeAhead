@@ -1,0 +1,14 @@
+body {
+  font-family: 'Lato', sans-serif;
+  width: 85%;
+  max-width: 750px;
+  margin: 0 auto;
+  padding: 0 25px;
+}
+
+.reportForm {
+  border: solid 1px #afafaf;
+  padding: 10px;
+  overflow: hidden;
+  background: #f1f1f1;
+}
